@@ -1,0 +1,9 @@
+/*/obj/
+/*/bin/
+/.vs/
+/_Debug/
+
+/_Release
+/_Release/Oracle.ManagedDataAccess.dll
+*/.vs/*
+/_Debug_PhaseSplitTable

@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportaCustom", "ImportaCustom\ImportaCustom.csproj", "{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esporta_PhaseSplitTable", "Esporta\Esporta_PhaseSplitTable.csproj", "{F6B4CFDA-804F-4F2E-98BB-480366FA5394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsportaOrdiniAutomatici", "EsportaOrdiniAutomatici\EsportaOrdiniAutomatici.csproj", "{F2AA4E3E-B9EF-46E2-B91F-AD2EA22BC90A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Debug|x86.ActiveCfg = Debug|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Debug|x86.Build.0 = Debug|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Release|x86.ActiveCfg = Release|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Release|x86.Build.0 = Release|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Debug|x86.ActiveCfg = Debug|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Debug|x86.Build.0 = Debug|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Release|x86.ActiveCfg = Release|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Release|x86.Build.0 = Release|x86
+		{F2AA4E3E-B9EF-46E2-B91F-AD2EA22BC90A}.Debug|x86.ActiveCfg = Debug|x86
+		{F2AA4E3E-B9EF-46E2-B91F-AD2EA22BC90A}.Debug|x86.Build.0 = Debug|x86
+		{F2AA4E3E-B9EF-46E2-B91F-AD2EA22BC90A}.Release|x86.ActiveCfg = Release|x86
+		{F2AA4E3E-B9EF-46E2-B91F-AD2EA22BC90A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C8F3D61-7AAB-4A32-ACB5-422216C56EB3}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5Client_Shared.projitems*{f2a61085-0138-4bbc-9cdc-fee298fc7b2c}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5CommonLibrary_Shared.projitems*{f2a61085-0138-4bbc-9cdc-fee298fc7b2c}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5Client_Shared.projitems*{f2aa4e3e-b9ef-46e2-b91f-ad2ea22bc90a}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5CommonLibrary_Shared.projitems*{f2aa4e3e-b9ef-46e2-b91f-ad2ea22bc90a}*SharedItemsImports = 4
+		Shared\Shared.projitems*{f2aa4e3e-b9ef-46e2-b91f-ad2ea22bc90a}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5Client_Shared.projitems*{f6b4cfda-804f-4f2e-98bb-480366fa5394}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5CommonLibrary_Shared.projitems*{f6b4cfda-804f-4f2e-98bb-480366fa5394}*SharedItemsImports = 4
+		Shared\Shared.projitems*{f6b4cfda-804f-4f2e-98bb-480366fa5394}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
