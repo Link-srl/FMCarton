@@ -7,3 +7,40 @@
 /_Release/Oracle.ManagedDataAccess.dll
 */.vs/*
 /_Debug_PhaseSplitTable
+
+#Ignore all files in specific directories
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\eSOLVERToolBox
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\_Debug
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\_Debug_PhaseSplitTable
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\_Debug_PhaseStandard
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\_Release
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\_Release_PhaseSplitTable
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\_Release_PhaseStandard
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Shared
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Importa\Esempi
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Importa\obj
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Importa\Properties
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Importa\Resources
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Importa\Service References
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Importa\Utility
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Esporta\obj
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Esporta\Properties
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Esporta\Resources
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Esporta\Service References
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\Esporta\Utility
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\ImportaCustom\obj
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\ImportaCustom\Properties
+C:\Users\VincenzoGiacalone\OneDrive - linkmes.it (1)\Link_Source\PhaseCustom_FMCarton\ImportaCustom\Resources
+
+# Ignore files from the directories we don't ignore
+*.ico
+*.md
+*.config
+*.
+*.exe
+*.zip
+*.dll
+*.csproj
+
+# Exclude specific files from being ignored
+!.cs
